@@ -17,6 +17,9 @@ Real-Time Messaging, Instant Connections
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+## LIVE - DEMO 🌐
+Visit the 👉 [_LINK 🔗_](https://quick-chat-nine-beta.vercel.app)
+
 </div>
 
 <br /><hr /><br />
@@ -304,6 +307,8 @@ For any questions or support, please contact:
 [⬆ Back to Top](#table-of-contents)
 
 </div>
+
+
 
 
 
